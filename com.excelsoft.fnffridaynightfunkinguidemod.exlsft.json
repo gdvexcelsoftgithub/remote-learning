@@ -33,7 +33,7 @@
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "",
+"STARAPPID" : "206601838",
 
 "ADMOB_BANNER" : "ca-app-pub-8555578052888840/1549151430",
 "ADMOB_INTER" : "ca-app-pub-8555578052888840/8833864640",
@@ -53,9 +53,9 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4216021",
 "UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "",
