@@ -7,7 +7,7 @@
 "Json_popup_Wait" : "Enjoy your apps :)",
 
 
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
@@ -22,7 +22,7 @@
 "PENGATURAN_IKLAN_inter" : "ADMOB",
 "PENGATURAN_IKLAN_native" : "ADMOB",
 
-"INTER_COUNT" : 4,
+"INTER_COUNT" : 5,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
@@ -33,11 +33,11 @@
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "201365479",
+"STARAPPID" : "",
 
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "",
-"ADMOB_NATIV" : "",
+"ADMOB_BANNER" : "ca-app-pub-9342995916783234/4031984167",
+"ADMOB_INTER" : "ca-app-pub-9342995916783234/9092739155",
+"ADMOB_NATIV" : "ca-app-pub-9342995916783234/5153494146",
 
 "hpk_alien" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -53,10 +53,10 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4045251",
-"UNITY_TEST_MODE" : "true",
+"UNITY_BANNER" : "",
+"UNITY_INTERSTITIAL" : "",
+"UNITY_GAME_ID" : "",
+"UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
 "APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
