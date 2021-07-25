@@ -35,9 +35,9 @@
 
 "STARAPPID" : "",
 
-"ADMOB_BANNER" : "ca-app-pub-9342995916783234/4031984167",
-"ADMOB_INTER" : "ca-app-pub-9342995916783234/9092739155",
-"ADMOB_NATIV" : "ca-app-pub-9342995916783234/5153494146",
+"ADMOB_BANNER" : "",
+"ADMOB_INTER" : "",
+"ADMOB_NATIV" : "",
 
 "hpk_alien" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
